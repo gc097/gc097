@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I epoch myself**
 
+  ![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=gc097&hide=contribs,prs)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lakshmi sri sai ganesh vathumilli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshmi sri sai ganesh vathumilli" height="30" width="40" /></a>
